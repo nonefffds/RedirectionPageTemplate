@@ -8,8 +8,8 @@ My own version using this template: [https://brunhild.cn/nonefffds]()
 
 TO-DO:
 
-* Dark mode (done, but no auto toggling)
+* Dark mode (done)
 * Update to Bootstrap 4 (done)
 * Make it better looking
-- Background supporting
+- Background supporting(no)
 - Compact buttons (mostly done)
