@@ -1,7 +1,7 @@
 # RedirectionPageTemplate
 
 A HTML template page for redirect to your other links. 
-Can be deployed on your own server. 
+Can be deployed on your server. 
 Written with Bootstrap 3 & 4.
 
 The original that written with Bootstrap 3 has basic feature of simply redirecting.
@@ -11,7 +11,7 @@ Link to test out: https://nonefffds.github.io/RedirectionPageTemplate/
 
 My own version using this template: https://brunhild.cn/nonefffds
 
-TO-DO/Features:
+## TO-DO/Features:
 
 * Dark mode (done)
 * Update to Bootstrap 4 (done)
