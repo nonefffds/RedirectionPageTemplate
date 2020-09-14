@@ -1,6 +1,6 @@
 # RedirectionPageTemplate
 
-A HTML template page for redirect with your other links. 
+A HTML template page for redirect to your other links. 
 Can be deployed on your own server. 
 Written with Bootstrap 3 & 4.
 
@@ -19,3 +19,8 @@ TO-DO/Features:
 * Compact buttons (mighty done)
 * Changing color scheme (might no)
 * floating QR Code after pressing the button (Done)
+
+## Want statistics?
+
+Currently there's no way for me to implement that right now, because it requires back-end technologies.
+But you still can use some short-link services that provide statistics for the alternative use.
