@@ -7,7 +7,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<title>Redirection Page</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<script>console.log("Something")</script>
+
   <style>
   	@media (prefers-color-scheme: dark) {
       .bgc {
@@ -66,7 +66,23 @@
         <button type="button" class="btn btn-default btn-lg btn-block btn-light" onclick="location.href='https://github.com'">GitHub</button>
         <button type="button" class="btn btn-default btn-lg btn-block btn-light" onclick="location.href='https://youtube.com'">Youtube</button>
         <button type="button" class="btn btn-default btn-lg btn-block btn-light" onclick="location.href='https://github.com/nonefffds/RedirectionPageTemplate/'">Repository of this templete</button>
-      
+        <button type="button" class="btn btn-default btn-lg btn-block btn-light" data-toggle="modal" data-target="#pop-modal">Show me a pic</button>
+
+
+        <div class="modal fade" id="pop-modal">
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-body bgc">
+                <img src="avatar.JPG" alt="" class="img-fluid mx-auto d-block" width="75%" />
+              </div>
+              <div class="modal-footer bgc">
+                <button type="button" class="btn btn-default btn-lg btn-block btn-light" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
        </div>
 
     	<div class="col-sm-1 col-md-1 col-lg-1 col-xl-1"></div>
