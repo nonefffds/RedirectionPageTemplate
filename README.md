@@ -17,5 +17,5 @@ TO-DO/Features:
 * Update to Bootstrap 4 (done)
 * Background supporting(no)
 * Compact buttons (mighty done)
-* Changing color scheme (In Progressing)
-* floating QR Code after pressing the button (In Progressing)
+* Changing color scheme (might no)
+* floating QR Code after pressing the button (Done)
