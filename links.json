@@ -1,0 +1,17 @@
+[
+   {
+      "title":"Github",
+      "link":"https://github.com",
+      "type":"normal"
+   },
+   {
+      "title":"Repository of this templete",
+      "link":"https://github.com/nonefffds/RedirectionPageTemplate/",
+      "type":"normal"
+   },
+   {
+      "title":"Show me a pic",
+      "link":"avatar.JPG",
+      "type":"pic"
+   }
+]
