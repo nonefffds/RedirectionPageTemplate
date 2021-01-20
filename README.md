@@ -32,7 +32,7 @@ My own version using this template: https://brunhild.cn/nonefffds
 
 * External CSS
 * Style enhance
-* Back-end Inplementation
+* Showed by JSON
 
 ## Want statistics?
 
