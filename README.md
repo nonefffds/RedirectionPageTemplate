@@ -30,9 +30,12 @@ My own version using this template: https://brunhild.cn/nonefffds
 
 ## TO-DO
 
+* Refurbish this with PHP
+
+
 * External CSS
 * Style enhance
-* Showed by JSON (JSON file for test is given)
+ ~~Showed by JSON (JSON file for test is given)~~
 
 ## Want statistics?
 
@@ -42,7 +45,7 @@ I'm still managed to learn something about PHP, but maybe until like 10yrs later
 
 ## How to use
 
-Just edit the html file, change the links and titles, and put this on your web server.
+Just edit the html file, change the links and titles, and put this on your HTTP web server(nginx/apache, etc.).
 
 ## Licenses
 
