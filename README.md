@@ -20,8 +20,6 @@ The most recent update(index.html) is written with Bootstrap 4 which has a bette
 
 Link to test out: https://nonefffds.github.io/RedirectionPageTemplate/
 
-My own version using this template: https://brunhild.cn/nonefffds
-
 ## New Features(Only in index.html):
 
 * Dark mode(Auto toggled by your browser)
@@ -46,7 +44,7 @@ But you still can use some short-link services that provide statistics for the a
 I'm still managed to learn something about PHP, but maybe until like 10yrs later for me to get it implemented.
 
 TRY TO USE MY SELF-HOSTED SHORTLINK SERVICE: https://srt.pub
-IT"S USING [YOURLS](https://yourls.org/), AND HAVING STATISTICS!
+IT'S USING [YOURLS](https://yourls.org/), AND HAVING STATISTICS!
 
 YOU CAN HOST IT YOURSELVES TOO! IT'S REALLY SIMPLE!
 
