@@ -45,6 +45,11 @@ Currently there's no way for me to implement that right now, because it requires
 But you still can use some short-link services that provide statistics for the alternative use.
 I'm still managed to learn something about PHP, but maybe until like 10yrs later for me to get it implemented.
 
+TRY TO USE MY SELF-HOSTED SHORTLINK SERVICE: https://srt.pub
+IT"S USING [YOURLS](https://yourls.org/), AND HAVING STATISTICS!
+
+YOU CAN HOST IT YOURSELVES TOO! IT'S REALLY SIMPLE!
+
 ## How to use
 
 Just edit the html file, change the links and titles, and put this on your HTTP web server(nginx/apache, etc.).
